@@ -27,8 +27,7 @@ h2::before {
   white-space: nowrap;
   border-right: 4px solid #fff;
   animation: animate 10s linear infinite;
-  filter: drop-shadow(0 0 20px #fff) drop-shadow(0 0 50px #fff)
-    drop-shadow(0 0 30px #f02);
+  filter: drop-shadow(0 0 20px #fff) drop-shadow(0 0 50px #fff);
 }
 @keyframes animate {
   0%,
