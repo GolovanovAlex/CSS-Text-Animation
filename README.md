@@ -1,4 +1,4 @@
-# CSS-Text-Animation
+# CSS Text Animation
 
 ### Use Skills
 
@@ -9,7 +9,7 @@
 
 [Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/xxYmOqJ)
 
-![smile](readme/smile.gif)
+![csstext](readme/csstext.gif)
 
 ## Info
 
